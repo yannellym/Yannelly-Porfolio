@@ -372,6 +372,11 @@ mobile view */
     padding: 10px;
     margin-left: -10px;
 }
+ 
+    #resume-img {
+    width: 250px;
+    height: 400px;
+}
 
 }
 
